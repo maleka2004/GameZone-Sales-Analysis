@@ -1,7 +1,0 @@
-*.twb~
-*.log
-~*.tmp
-*.bak
-*.tmp
-__MACOSX/
-Thumbs.db
